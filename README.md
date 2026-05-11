@@ -32,12 +32,6 @@ The experience is designed to feel like a fusion of:
 
 ---
 
-## ✦ Live Preview
-
-> Run locally with `npm run dev` and open [http://localhost:5173](http://localhost:5173)
-
----
-
 ## ✦ Feature Highlights
 
 | Feature | Description |
@@ -157,7 +151,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ### Build for Production
 
